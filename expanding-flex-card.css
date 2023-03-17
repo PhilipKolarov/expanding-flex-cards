@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(238, 238, 238);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50vw;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 1%;
+    height: 400px;
+    width: 70%
+}
+
+img {
+    box-shadow: 2px 6px 12px 2px darkgray;
+}
+
+.first-img, .third-img, .fourth-img {
+    width: 8%;
+}
